@@ -1,0 +1,1 @@
+ Wavelength is a party game where one player gives a clue to help their team guess where a hidden target falls on a spectrum between two opposites (like "Hot → Cold" or "Good → Evil"). It's a great social/deduction game that sparks fun debates.
